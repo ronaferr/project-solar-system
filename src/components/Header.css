@@ -1,9 +1,7 @@
 .header {
-  /* width: 692px;
-  top: 101px; */
-  height: 150px;
-  display: flex;
   align-items: center;
   justify-content: center;
+  display: flex;
+  height: 150px;
   font-size: 40px;
 }
