@@ -1,0 +1,22 @@
+.missionCard {
+  border: 2px solid gainsboro;
+  width: 354px;
+  height: 281px;
+  border-radius: 17px;
+  margin-bottom: 50px;
+  text-align: left;
+  padding-left: 30px;
+  padding-bottom: 35px;
+  padding-top: 20px;
+}
+
+.missionCard h3 {
+  font-size: 28px;
+  font-weight: 900px;
+  margin-bottom: 50px;
+  border-bottom: 2px solid gainsboro;
+}
+
+.missionCard p {
+  font-size: 25px;
+}

@@ -1,0 +1,15 @@
+.solarSystem {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* margin: auto; */
+  
+
+}
+
+.containerPlanet {
+  display: flex;
+  justify-content: space-evenly;
+  width: 1250px;
+}
