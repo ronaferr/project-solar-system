@@ -14,12 +14,9 @@
     "react-scripts": "5.0.0",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://ronaferr.github.io/project-solar-system/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "lint:styles": "npx stylelint '**/*.css'",
     "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js,.jsx"
